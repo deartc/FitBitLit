@@ -1,4 +1,4 @@
-#used try except value error at least once in project to understand concept
+#used test case
 def trial():
     try:
         height = float(input('Enter your height (meters):'))
@@ -14,3 +14,6 @@ def trial():
         print(f'This is considered {statement}!')
 
 trial()
+
+
+
