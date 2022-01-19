@@ -1,0 +1,16 @@
+#used try except value error at least once in project to understand concept
+def trial():
+    try:
+        height = float(input('Enter your height (meters):'))
+        weight = float(input('Enter your weight (kilograms):'))
+
+    except ValueError as error:
+        print(error)
+    else:
+        bmi = round(met_bmi(height, weight), 1)
+        statement = des_bmi(bmi)
+
+        print(f'Your body mass index is {bmi}')
+        print(f'This is considered {statement}!')
+
+trial()
