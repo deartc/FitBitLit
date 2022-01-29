@@ -8,10 +8,8 @@ Requirements:
 To run my project your must do the following: Go to github.com/deartc/FitBitLit.  Clone the repository. 
 
  
- I satisfied the requirements by doing the following:
+ I satisfied the requirements by doing the following on the feature list in each category :
  
- 
-
 
 FEATURE LIST:
 Category 1: Python Programming Basics:
