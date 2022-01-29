@@ -1,13 +1,16 @@
 # FitBitLit
-This is a  project named FitBitLit.  I  an  certified National Association of Sports Medicine Group Fitness trainer.  I want to use the project to compare various exercises.
-THese current file downloads are test projects to see if I can use my knowledge from videos/class in a way that I could possibly I use exercise as a project. I realize sql file is not correct format but I just was testing if I could use in a project.   I plan on  a Kaggle file as data used for calories burnt.   I would like to also use at least one category of my own data in my project.  I plan to use Fitbit device and download the data. I started using downloads from my fitbit charge 4.    Although those are my ultimate goals,  I might have to limit my class project due to time constraints and specific class requirenments.  I plan on expanding it later after the course ends.  
-I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, and possibly Jupyter.   To run my project your must do the following: Go to github.com/deartc/FitBitLit.  Clone the repository. 
+This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt.   I plan to use Fitbit device and download the data. I started using downloads from my fitbit charge 4.    Although those are my ultimate goals,  I might have to limit my class project due to time constraints and specific class requirenments.  I plan on expanding it later after the course ends.
 
+Packages/Software:
+I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, Jupyter, Anacoda, and Spyder.  
+
+Requirements:
+To run my project your must do the following: Go to github.com/deartc/FitBitLit.  Clone the repository. 
+
+ 
  I satisfied the requirements by doing the following:
  
  
-Gitignore used to keep  secrets/passwords used to access APIs / data sources out of the Github repository
-Relevant packages that need to be installed to run the project include:
 
 
 FEATURE LIST:
@@ -34,7 +37,15 @@ Category 2: Utilize External Data:
 
 Read data from an external file, a Kaggle file and used that data in your application.
 
+
+
 Connect to an external/3rd party API and read data into your app.  I did that by using a fitbit.
+
+
+
+
+
+
 Connect to a database and read data using SQL.
 
 
@@ -62,7 +73,7 @@ I satsified the requirements by doing the following:
 
 
 Correct use of Git/Github and commits: I followed the correct steps in the project guidelines to create and name the github repository that would reflect a distinct repository. I then used the proper guidelines to initialize the project and add files using git bash and the command line. I then far exceeded the minimum number of commits needed to pass.
-
+Gitignore used to keep  secrets/passwords used to access APIs / data sources out of the Github repository
 I also named my file a distinct name describing my project of FitBitLit.
 
 
