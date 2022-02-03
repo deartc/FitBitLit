@@ -74,10 +74,10 @@ Visualize data in a graph, chart, or other visual representation of data.
 I used  Matplotlib to create charts/graphs of data.   I used it on my Kaggle data to plot the exercise for my range.
 
 
-I used an Excel dataset of exercise data that needed revison.   I used Tableau to chart this data.  It is at this link.   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+I used an Excel dataset of exercise data that needed revison.   I used Tableau to chart this data.  This is a first draft on software I haven't used before. It is at this link   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-k
+
 
 
 
