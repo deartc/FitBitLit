@@ -1,5 +1,5 @@
 # FitBitLit
-This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt.   I plan to use Fitbit device and download the data. I started using downloads from my fitbit charge 4.    Although those are my ultimate goals,  I might have to limit my class project due to time constraints and specific class requirenments.  I plan on expanding it later after the course ends.
+This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt. I plan on using colab to display the features in Section 1 of the project.  I plan to use Fitbit device and download the data. I started using downloads from my fitbit charge 4.    Although those are my ultimate goals,  I might have to limit my class project due to time constraints and specific class requirenments.  I plan on expanding it later after the course ends.
 
 Packages/Software:
 I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, Jupyter, Anacoda, Excel and Spyder.  
@@ -25,7 +25,7 @@ The following export commands should be used:
 FEATURE LIST:
 Category 1: Python Programming Basics:
 
-I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used a week in the future and the days until the Kentucky Derby Festival MiniMarathon/Marathone because those are conventional times for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter).
+I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathone because those are conventional times for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter).
 
 
 
@@ -37,8 +37,6 @@ I also built a conversion tool that satisfies a requirement that converts the us
 
 I also implemented a regular expression (regex) to ensure a field either a phone number or an email address is always stored and
 displayed in the same format at the start of my program. I used my email address and a web address and  implemented a regex to ensure it was stored in same format.
-
-I also satisfied the requirement of creating and calling at least 3 functions or methods, at least one of which must return a value that is used somewhere else in the code. I determined how to calculate calories from pounds. I then calculated the calorie count for one week. I then calculated a bmi by weight (pounds) and height in the English conversion. I also did a metric version to satisfy this requirement of calling 3 functions or methods.
 
 
 
@@ -79,13 +77,18 @@ I used  Matplotlib to create charts/graphs of data.   I used it on my Kaggle dat
 I used an Excel dataset of exercise data that needed revison.   I used Tableau to chart this data.  It is at this link.   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
-
-https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+k
 
 
 
 Category 4: Best Practices
 Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
+
+I had a partial data set of exercise that had things missing or wrong that I had planned to use to record errors or invalid inputs.  I have the data set and used it
+for the Tableau data set.  I am working on the code to try to do this.  Ideally I love to put in Tableau and use the code there but if it is too difficult will not do so.
+I'm still trying to figure out how to set the data separately in a file if I do it within traditional python environment.  The separate file portion is the part I'm not sure about.  
+
+
 Create 3 or more unit tests for your application.
 The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
 Source data should not be modified/changed - clean data should be stored separately.
