@@ -33,7 +33,10 @@ I also satisfied the requirement of creating and calling at least 3 functions or
 
 Category 2: Utilize External Data:
 
-Read data from an external file, a Kaggle file and used that data in your application.
+Iead data from an external file, a Kaggle file and used that data in your application.
+
+
+I used an Excel data file and included it in my 
 
 
 
@@ -56,6 +59,14 @@ Connect to a database and read data using SQL.
 Category 3: Data Display
 Visualize data in a graph, chart, or other visual representation of data.
 I used  Matplotlib to create charts/graphs of data
+
+
+I used an Excel dataset of exercise data that needed revison.   I used Tableau to chart this data.  It is at this link.   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+
+
+https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 
 
 Category 4: Best Practices
