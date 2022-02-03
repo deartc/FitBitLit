@@ -81,7 +81,7 @@ k
 
 
 
-Category 4: Best Practices
+Category 4: Best Practices   (not done but have data set and Tableau charts)
 Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
 
 I had a partial data set of exercise that had things missing or wrong that I had planned to use to record errors or invalid inputs.  I have the data set and used it
@@ -89,9 +89,7 @@ for the Tableau data set.  I am working on the code to try to do this.  Ideally 
 I'm still trying to figure out how to set the data separately in a file if I do it within traditional python environment.  The separate file portion is the part I'm not sure about.  
 
 
-Create 3 or more unit tests for your application.
-The program should utilize a virtual environment and document library dependencies in a requirements.txt file.
-Source data should not be modified/changed - clean data should be stored separately.
+
 
 
 
