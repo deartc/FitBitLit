@@ -6,6 +6,9 @@ I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, Jupyter, Anacoda,
 
 Requirements:
 To run my project your must do the following: Go to github.com/deartc/FitBitLit.  Clone the repository. 
+
+
+(I'm not sure of what is needed here:
 To run Spyer do the following:
 
 To run Colab do the following:
