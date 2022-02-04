@@ -18,7 +18,8 @@ To run Colab do the following:
 To run Tableau do the following
 
 
-The following export commands should be used:
+The following import commands should be used:  import pandas as p,d
+import matplotlib.pyplot as plt
 
 
  
