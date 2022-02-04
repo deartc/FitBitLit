@@ -9,7 +9,7 @@ To run my project your must do the following: Go to github.com/deartc/FitBitLit.
 
 
 (I'm not sure of what is needed here:
-To run Spyer do the following:
+To run Jupyter/Spyder do the following:
 
 To run Colab do the following:
 
@@ -88,9 +88,8 @@ I used an Excel dataset of exercise data that needed revison.   I used Tableau t
 Category 4: Best Practices   (not done but have data set and Tableau charts)
 Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
 
-I had a partial data set of exercise that had things missing or wrong that I had planned to use to record errors or invalid inputs.  I have the data set and used it
-for the Tableau data set.  I am working on the code to try to do this.  Ideally I love to put in Tableau and use the code there but if it is too difficult will not do so.
-I'm still trying to figure out how to set the data separately in a file if I do it within traditional python environment.  The separate file portion is the part I'm not sure about.  
+ I have the data set I plan to use that needs revisions.
+  
 
 
 
