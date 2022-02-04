@@ -1,6 +1,5 @@
 # FitBitLit
-This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt. I plan on using colab to display the features in Section 1 of the project.  Although those are my ultimate goals,  I might have to limit my class project due to time constraints and specific class requirenments.  I plan on expanding it later after the course ends.
-
+This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt. 
 Packages/Software:
 I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, Jupyter, Anacoda, Excel and Spyder.  
 
@@ -75,13 +74,6 @@ Implement a log that records errors, invalid inputs, or other important events a
 
 
 
-
-I satsified the requirements by doing the following:
-
-
-Correct use of Git/Github and commits: I followed the correct steps in the project guidelines to create and name the github repository that would reflect a distinct repository. I then used the proper guidelines to initialize the project and add files using git bash and the command line. 
-I then far exceeded the minimum number of commits needed to pass.
-I also named my file a distinct name describing my project of FitBitLit.
 
 
 
