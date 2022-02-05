@@ -1,0 +1,39 @@
+#used test case
+def trial():
+    try:
+        height = float(input('Enter your height (meters):'))
+        weight = float(input('Enter your weight (kilograms):'))
+
+    except ValueError as error:
+        print(error)
+    else:
+        bmi = round(met_bmi(height, weight), 1)
+        statement = des_bmi(bmi)
+
+        print(f'Your body mass index is {bmi}')
+        print(f'This is considered {statement}!')
+
+trial()
+
+$ pip install pytest-html
+
+$ pytest --html=report.html
+
+
+
+#second example
+import sample
+import pytest
+@pytest.mark.parametrize('num1, num2, result',
+                         [
+                             (95,63, 99),
+                             ('Hello', ' World', 'Hello World'),
+                             (15.5, 25.5, 41)
+                         ]
+                         )
+def test_add(num1, num2, result):
+    assert sample.add(num1, num2) == result
+    
+    
+    
+py.test --html=report.html -s
