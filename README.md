@@ -1,5 +1,5 @@
 # FitBitLit
-This is a  project named FitBitLit.   I want to use the project to compare various exercises. I plan on  a Kaggle file as data used for calories burnt. 
+This is a  project named FitBitLit.   I want to use the project to compare various exercises. 
 Packages/Software:
 I  plan on using Windows, SQL,Kaggle data, Colab, and Tableau, Jupyter, Anacoda, Excel and Spyder.  
 
