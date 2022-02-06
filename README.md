@@ -28,7 +28,7 @@ import matplotlib.pyplot as plt
 FEATURE LIST:
 Category 1: Python Programming Basics:
 
-I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathone because those are conventional times for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter).
+I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter).
 
 
 
