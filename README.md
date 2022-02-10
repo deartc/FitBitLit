@@ -8,7 +8,6 @@ To run my project your must do the following: Go to github.com/deartc/FitBitLit.
 
 
 (I'm not sure of what is needed here:
-To run Jupyter/Spyder do the following:
 
 To run Colab do the following:
 
@@ -49,7 +48,9 @@ Category 2: Utilize External Data:
 I read data from an external file, a Kaggle file and used that data in my project
 
 
-I used an Excel data file and included it in my project
+
+I used an Excel data file and included it in my project.  I used  Matplotlib to create charts/graphs of data. 
+
 
 
 
@@ -59,7 +60,8 @@ Visualize data in a graph, chart, or other visual representation of data.
 I used  Matplotlib to create charts/graphs of data.   I used it on my Kaggle data to plot the exercise for my range.
 
 
-I used an Excel dataset of exercise data that needed revison.   I used Tableau to chart this data.   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+I used an Excel dataset of exercise data that needed revison. I used  Matplotlib to create charts/graphs of data. 
+ I also used Tableau to chart this data.   https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
@@ -68,9 +70,7 @@ I used an Excel dataset of exercise data that needed revison.   I used Tableau t
 
 Category 4: Best Practices  
 Implement a log that records errors, invalid inputs, or other important events and writes them to a text file.
-
- I have the data set I plan to use that needs revisions.
-  
+Not done yet but have basic code that might be needed.
 
 
 
