@@ -1,4 +1,4 @@
-#used test case
+#use test case
 def trial():
     try:
         height = float(input('Enter your height (meters):'))
