@@ -1,6 +1,4 @@
  This is a  project named FitBitLit. I want to use the   project to compare various exercises of people preparing for the Kentucky Marathon.
- 
- Packages/Software Requirements:
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.
 Colab should automatically run.  Tableau can be accessed by clicking on the tableau link.
  
