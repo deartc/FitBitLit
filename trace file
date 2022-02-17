@@ -15,15 +15,16 @@ def trial():
 
 trial()
 
-$ pip install pytest-html
 
-$ pytest --html=report.html
 
 
 
 #second example
 import sample
 import pytest
+$ pip install pytest-html
+
+$ pytest --html=report.html
 @pytest.mark.parametrize('num1, num2, result',
                          [
                              (95,63, 99),
