@@ -5,7 +5,7 @@ To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone th
 Colab should automatically run.  Tableau can be accessed by clicking on the tableau link.
  
 Category 1: Python Programming Basics:
-I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. I wanted to use that also in the second requirement (a calorie counter).
+I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. 
  
 I satisfied the requirement of creating a dictionary or list, populating it with several values, retrieving at least one value, and using it in your program. I created a dictionary that lists lower calorie exercises. The second dictionary had higher calorie exercise. I then had an intersection of the dictionaries of intermediate calorie exercises. I used this dictionary later in the program.
 .
