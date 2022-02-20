@@ -21,7 +21,7 @@ Notes:  I know this is very basic but  although I have taken python I am new to 
 Category 3: Data Display
  
 I used an Excel dataset of exercise data. I used  Matplotlib to create charts/graphs of data.
-I used an Excel dataset of exercise data. I used Matplotlib to create charts/graphs of data. I also used Tableau to chart this data. https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+I used an Excel dataset of exercise data. I used Matplotlib to create charts/graphs of data. I also used Tableau to chart this data. https://public.tableau.com/views/ExerciserData/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
   
 
 Category 4: Best Practices
