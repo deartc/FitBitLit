@@ -15,8 +15,7 @@ I also implemented a regular expression (regex) to ensure a field either a phone
 Category 2: Utilize External Data:
  
 I used an Excel data file and included it in my project.  I used  Matplotlib to create charts/graphs of data.
-Notes:  I know this is very basic but  although I have taken python I am new to data analysis portion.  I have more code but only included what actually worked for now.   I plan to see if I  can clean data and do more data analysis later now that I have the  hands on experience.     
- 
+
 
 Category 3: Data Display
  
