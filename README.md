@@ -1,7 +1,7 @@
- This is a  project named FitBitLit. I want to use the   project to compare various exercises of people preparing for the Kentucky Marathon.
+ This is a  project named FitBitLit. I want to use the   project to compare  people preparing for the Kentucky Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.
 Colab should automatically run.  Tableau can be accessed by clicking on the tableau link. 
-Notes: I tried to think more professionally and try to  restrict my  focus and data more to just 4 fictional people  and training exercise data because it looks better in visualization charts and most employers need skills regarding comparing employees/students.   
+  
  
 Category 1: Python Programming Basics:
 I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. 
@@ -22,7 +22,7 @@ Category 3: Data Display
  
 I used an Excel dataset of exercise data. I used  Matplotlib to create charts/graphs of data.
 I used an Excel dataset of exercise data. I used Matplotlib to create charts/graphs of data. I also used Tableau to chart this data. https://public.tableau.com/views/ExerciseDataSetRevision/ExerciseDatatoReviseandClean?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-Notes:  I just took training and did my exercise data set quickly to ensure I could actually do it and include a link.  I have a student Tableau  account and will expand on this further.   
+  
 
 Category 4: Best Practices
  Implement a log that records errors, invalid inputs, or other important events and writes them to a text file. Create 3 or more unit tests for your application. The program should utilize a virtual environment and document library dependencies in a requirements.txt file. Source data should not be modified/changed - clean data should be stored separately.
