@@ -6,7 +6,7 @@ Colab should automatically run.  Tableau can be accessed by clicking on the tabl
 Category 1: Python Programming Basics:
 I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. 
  
-I satisfied the requirement of creating a dictionary or list, populating it with several values, retrieving at least one value, and using it in your program. I created a dictionary that lists lower calorie exercises. The second dictionary had higher calorie exercise. I then had an intersection of the dictionaries of intermediate calorie exercises. I used this dictionary later in the program.
+I satisfied the requirement of creating a dictionary or list, populating it with several values, retrieving at least one value, and using it in my program. I created a dictionary that lists lower calorie exercises. The second dictionary had higher calorie exercise. I then had an intersection of the dictionaries of intermediate calorie exercises. I used this dictionary later in the program.
 .
 I also implemented a regular expression (regex) to ensure a field either a phone number or an email address, is always stored and displayed in the same format at the start of my program. I used my email address and a web address and implemented a regex to ensure it was stored in the same format.
  
