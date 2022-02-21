@@ -24,7 +24,7 @@ I used an Excel dataset of exercise data. I used Matplotlib to create charts/gra
 https://public.tableau.com/views/TeresaHawkinsExerciseDataSet/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
   
 
-Category 4: Best Practices
+Category 4: Best Practices  (will probably not do this one)
  Implement a log that records errors, invalid inputs, or other important events and writes them to a text file. Create 3 or more unit tests for your application. The program should utilize a virtual environment and document library dependencies in a requirements.txt file. Source data should not be modified/changed - clean data should be stored separately.
  Notes:   Not done yet but I need to focus more on the data analysis before I focus on this
 
