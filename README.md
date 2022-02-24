@@ -4,10 +4,10 @@ Colab should automatically run.  Tableau can be accessed by clicking on the tabl
   
  
 Category 1: Python Programming Basics:
-I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date. I used the days until the Kentucky Derby Festival MiniMarathon/Marathon because those are conventional times for a person to monitor exercise progress. 
+I built a conversion tool that satisfies the requirement of calculating and displaying data based on an external factor. I used the current date, and then displayed how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
  
 I satisfied the requirement of creating a dictionary or list, populating it with several values, retrieving at least one value, and using it in my program.
-.
+
 I also implemented a regular expression (regex) to ensure  fields, a web address and an email address, are always stored and displayed in the same format at the start of my program. 
  
  
@@ -20,8 +20,8 @@ Matplotlib to create charts/graphs of data.
 
 
 Category 3: Data Display
- 
-I used an Excel dataset of exercise data. I used  Matplotlib to create charts/graphs of data. I also used Tableau to chart this data.
+Matplotlib 
+Tableau to chart this data.
 https://public.tableau.com/views/TeresaHawkinsExerciseDataSet/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
   
 
