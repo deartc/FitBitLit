@@ -1,4 +1,4 @@
-  I want to use this project to compare 4 peoples' exercise data as they   prepar for the Kentucky Marathon.
+  I want to use this project to compare 4 peoples' exercise data as they   prepare for the Kentucky Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.
 Colab should automatically run.  Tableau can be accessed by clicking on the tableau link. 
   
