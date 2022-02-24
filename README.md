@@ -1,4 +1,4 @@
- This is a  project named FitBitLit. I want to use the   project to compare  people preparing for the Kentucky Marathon.
+  I want to use this project to compare 4 peoples' exercise data as they   prepar for the Kentucky Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.
 Colab should automatically run.  Tableau can be accessed by clicking on the tableau link. 
   
@@ -7,9 +7,9 @@ Category 1: Python Programming Basics
 
 Conversion tool displaying data based on an external factor: the current date, and then  how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
  
-Dictionary or list, populated it with several values, retrieving at least one value, and using it in my program.
+Dictionary or list, populated with several values, retrieved at least one value.
 
-Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format 
+Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format. 
  
  
  
