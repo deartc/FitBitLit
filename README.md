@@ -1,27 +1,37 @@
-  I want to use this project to compare 4 peoples' exercise data as they   prepare for the Kentucky Marathon.
+  This project  compares 4 peoples' exercise data as they   prepare for the Kentucky  Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.
-Colab should automatically run.  Tableau can be accessed by clicking on the tableau link. 
+Colab should automatically run. Kaggle can be accessed by clicking on Kaggle.  Tableau can be accessed by clicking on the tableau link.  
   
  
 Category 1: Python Programming Basics
 
-Conversion tool displaying data based on an external factor: the current date, and then  how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
+1.Conversion tool displaying data based on an external factor: the current date, and then  how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
  
-Dictionary or list, populated with several values, retrieved at least one value.
+2.Dictionary or list, populated with several values, retrieved at least one value.
 
-Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format. 
+3. Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format. 
  
  
  
 Category 2: Utilize External Data:
  
-A.Excel data files
-B.Kagle
-C.Matplotlib to create charts/graphs of data.
+1.Excel data files 
+Excel data file that was cleaned
+missing data 
+NAN values  
+
+B.Kagle file
+Location of exercise
+
+
+Calculate calories of  exercises with exercise location and weight 
+
+
+ C.Matplotlib to create charts/graphs of data.
 
 
 Category 3: Data Display
-Matplotlib 
+Matplotlib-Scatter diagram 
 Tableau to chart this data.
 https://public.tableau.com/views/TeresaHawkinsExerciseDataSet/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
