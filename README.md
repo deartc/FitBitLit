@@ -17,17 +17,15 @@ Category 2: Utilize External Data:
  
 1.Excel data files 
 Excel data file that was cleaned
-missing data 
-NAN values  
-
-B.Kagle file
-Location of exercise
+A. missing data 
+B. NAN values
+C. Data head of relevant data summary
 
 
-Calculate calories of  exercises with exercise location and weight 
+Kagle file
+A. iloc Location of exercise in file 
 
-
- C.Matplotlib to create charts/graphs of data.
+B. Calculate calories of four  exercisers with different exercise location  and weight on Kaggle  
 
 
 Category 3: Data Display
