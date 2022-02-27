@@ -16,17 +16,16 @@ Category 1: Python Programming Basics
 Category 2: Utilize External Data:
  
 1.Excel data files 
-Excel data file that was cleaned
-A. missing data 
-B. NAN values
+A. Excel data file  cleaned
+B. missing data addressed  
+C. NAN values addressed
+D. Summary of relevant data files listed and analyzed 
 
-Excel data files summary of relevant data
 
-
-Kagle file
-A. iloc Location of exercise in file 
-
-B. Calculate calories of four  exercisers with different exercise location  and weight on Kaggle 
+2.Kaggle files
+A. iloc Location of exercise in file used and identified 
+B Calories of four  exerciserscalculated with different exercise location  and weight on Kaggle 
+C. Summary and analysis of the data
 
 
 
