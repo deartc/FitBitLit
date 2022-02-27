@@ -7,7 +7,7 @@ Category 1: Python Programming Basics
 
 1. Conversion tool displaying data based on an external factor: the current date, and then  how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
  
-2.Dictionary or list, populated with several values, retrieved at least one value.
+2 .Dictionary or list, populated with several values, retrieved at least one value.
 
 3. Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format. 
  
