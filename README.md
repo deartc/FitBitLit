@@ -1,6 +1,6 @@
   This project  compares 4 peoples' exercise data as they   prepare for the Kentucky  Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitters.ipynb and use the Colab link to open up in Colab.
-Colab should automatically run.The  Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and opening up.  Tableau can be accessed by clicking on the tableau link.  
+Colab should automatically run.The  Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and opening up.  Tableau can be accessed by clicking on the Tableau link.  
   
  
 Category 1: Python Programming Basics
