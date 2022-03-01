@@ -1,13 +1,13 @@
   This project  compares 4 peoples' exercise data as they   prepare for the Kentucky  Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitters.ipynb and use the Colab link to open up in Colab.
-Colab should automatically run.The  Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and opening up.  Tableau can be accessed by clicking on the Tableau link.  
+Colab should automatically run.The  Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and opening up.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib.  
   
  
 Category 1: Python Programming Basics
 
 1. Conversion tool displaying data based on an external factor: the current date, and then  how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon. 
  
-2 .Dictionary or list, populated with several values, retrieved at least one value.
+2.Dictionary or list, populated with several values, retrieved at least one value.
 
 3. Regex to ensure  fields, a web address and an email address, are always stored and displayed in the same format. 
  
@@ -20,12 +20,13 @@ A. Excel data file  cleaned
 B. missing data addressed  
 C. NAN values addressed
 D. Summary of relevant data files listed and analyzed 
+E. Excel data plotted using matplotlib.
 
 
 2.Kaggle files
 A. iloc Location of exercise in file used and identified 
 B Calories of four  exerciserscalculated with different exercise location  and weight on Kaggle 
-C. Summary and analysis of the data
+C. Summary and analysis of the data plotted using matploblib
 
 
 
