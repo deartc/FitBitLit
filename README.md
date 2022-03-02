@@ -35,7 +35,6 @@ Matplotlib-Scatter diagram
 1.  Excel data files scatter diagram of
 2.  Histogram 
 Tableau to chart this data.
-https://public.tableau.com/views/TeresaHawkinsExerciseDataSet/Sheet3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/views/TeresaHAwkinsExerciseDataInfoCalories/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
