@@ -25,18 +25,20 @@ E. Excel data plotted using matplotlib.
 
 2. Kaggle files
 A. Iloc Location of exercise in file used and identified 
-B Calories of four  exerciserscalculated with different exercise location  and weight on Kaggle 
-C Summary and analysis of the data plotted using matploblib
+B. Calories of four  exercisers calculated with different exercise location and weight on Kaggle 
+C. Summary and analysis of the data plotted using matploblib
 
 
 
 Category 3: Data Display
-A. Matplotlib-Scatter diagram 
-1.  Excel data files scatter diagram of
-2.  Histogram 
+1. Matplotlib-Scatter diagram 
+A.  Excel data files scatter diagram of
+B.  Histogram 
+C.  Correlaton Charts
 
 2. Tableau to chart Excel data
-A.
+A.  Calories Bar  Chart  for Each Exerciser
+B.  Steps Line Char for Each Exerciser
 
 https://public.tableau.com/views/TeresaHAwkinsExerciseDataInfoCalories/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
