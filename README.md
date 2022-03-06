@@ -16,7 +16,7 @@ Category 1: Python Programming Basics
 Category 2: Utilize External Data:
  
 1. Excel data files 
-A. Excel data file cleaned
+A. Data file cleaned
 B. Missing data addressed  
 C. NAN values addressed
 D. Summary of relevant data files listed and analyzed 
@@ -30,11 +30,21 @@ C. Summary and analysis of the data plotted using matploblib
 
 
 
-Category 3: Data Display
+Category 3: Data Display (Excel)
 1. Matplotlib-Scatter diagram 
 A.  Excel data files scatter diagram of
 B.  Histogram 
 C.  Correlaton Charts
+
+
+
+Category 3: Data Display (Kaggle)
+1. Matplotlib-Scatter diagram 
+A.  Excel data files scatter diagram of
+B.  Histogram 
+C.  Correlaton Charts
+
+
 
 2. Tableau to chart Excel data
 A.  Calories Bar  Chart  for Each Exerciser
