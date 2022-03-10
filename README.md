@@ -1,6 +1,6 @@
   This project  compares 4 peoples' exercise data as they   prepare for the Kentucky  Marathon.
-To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitters.ipynb and use the Colab link to open up in Colab.
-Once open run to  access updated data. The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib.  
+To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitlitgit.ipynb and use the Colab link to open up in Colab.
+Once open  run to  access updated data and answer yes when prompted. The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib.  
   
  
 Category 1: Python Programming Basics
@@ -19,6 +19,7 @@ Category 2: Utilize External Data:
 A. Data file cleaned
 B. Missing data addressed  
 C. NAN values addressed
+D. Statistical analysis of data: Mean, Median, Mode
 D. Summary of relevant data files listed and analyzed 
 E. Excel data plotted using matplotlib.
 
