@@ -40,26 +40,22 @@ C.  Correlaton Charts
 
 
 Category 3: Data Display (Matplot Kaggle)
-1. Matplotlib-Scatter diagram 
+2. Matplotlib-Scatter diagram 
 A.  Excel data files scatter diagram of
 B.  Histogram 
 C.  Correlaton Charts
 
 
 Category 3: Data Display (Tableau)
-2. Tableau to chart Excel data
+3. Tableau to chart Excel data
 A.  Calories Bar  Chart  for Each Exerciser
-B.  Steps Line Char for Each Exerciser
-
-https://public.tableau.com/views/TeresaHAwkinsExerciseDataInfoCalories/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
-
-
-
-https://public.tableau.com/views/TeresaHawkinsExerciseDataSet/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+B.  Steps Line Chart for Each Exerciser
+C. Duration Bar Chart
+D. Comparison Chart
 
 
 
-<div class='tableauPlaceholder' id='viz1647023120076' style='position: relative'><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TeresaHawkinsDataProject&#47;Sheet4' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1647023120076');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
 
 https://public.tableau.com/views/TeresaHawkinsDataProject/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
 
