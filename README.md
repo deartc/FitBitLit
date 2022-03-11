@@ -53,11 +53,10 @@ B.  Steps Line Chart for Each Exerciser
 C. Duration Bar Chart
 D. Comparison Chart
 
+Tableau link:
+https://public.tableau.com/views/TeresaHawkinsEXERCISEPROJECT2021/DECEMBERCALORIES2021?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-
-
-https://public.tableau.com/views/TeresaHawkinsDataProject/Sheet4?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
