@@ -1,6 +1,6 @@
   This project  compares  the exercise data of four people as they  prepare for the Kentucky Marathon.
 To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitlitgit.ipynb and use the Colab link to open up in Colab.
-Once open  run to  access updated data and answer yes when prompted. The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib.  
+Once open  run to  access updated data and answer yes when prompted. The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib,sns.  
   
  
 Category 1: Python Programming Basics
@@ -44,14 +44,15 @@ Category 3: Data Display (Matplot Kaggle)
 A.  Excel data files scatter diagram of
 B.  Histogram 
 C.  Correlaton Charts
+D.  Heat Map
 
 
 Category 3: Data Display (Tableau)
 3. Tableau to chart Excel data
 A.  Calories Bar  Chart  for Each Exerciser
 B.  Steps Line Chart for Each Exerciser
-C. Duration Bar Chart
-D. Comparison Chart
+C. Calories Steps  Chart
+D. Exerciser Comparison Chart
 
 Tableau link:
 
