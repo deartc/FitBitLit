@@ -1,6 +1,5 @@
-  This project  compares  the exercise data of four people as they  prepare for the Kentucky Marathon.
-To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  Go to fitbitlitgit.ipynb and use the Colab link to open up in Colab.
-Once open  run to  access updated data and answer yes when prompted. The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib,sns.  
+ This project  compares  the exercise data of four people as they  prepare for the Kentucky Marathon.
+To run my project do the following: Go to github.com/deartc/FitBitLit.  Clone the repository.  To run the colab portion which lists actual exercise data of my project, go to  fitbitlitgit.ipynb and use the Colab link to open up in Colab. Once open  run to  access updated data and answer yes when prompted.  The Kaggle file lists the weights of the exercisers and the potential  calories burned by certain activities.  The Kaggle file KaggleFitbit can be accessed by clicking on Kaggle link and once opened up run it to update data.  Tableau can be accessed by clicking on the Tableau link. I used the following: pandas, matplotlib,sns.  
   
  
 Category 1: Python Programming Basics
