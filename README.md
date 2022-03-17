@@ -44,7 +44,5 @@ Data Display (Matplot Kaggle) 2. Matplotlib-Scatter diagram A. Excel data files 
 
 Tableau link:
 
-
-
 https://public.tableau.com/views/TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021/DECEMBERCALORIES2021?:language=en-US&:display_count=n&:origin=viz_share_link
 
