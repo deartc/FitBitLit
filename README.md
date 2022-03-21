@@ -33,7 +33,9 @@ C. NAN values addressed D. Statistical analysis of data: Mean, Median, Mode D. S
 
 Kaggle data  files A. Iloc Location of exercise in file used and identified B. Calories of four exercisers calculated with different exercise location and weight on Kaggle C. Summary and analysis of the data plotted using matploblib
  Data Display (Matplot Colab)
-Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts
+Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts 
+
+
 
 Data Display (Matplot Kaggle) 2. Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map
 
