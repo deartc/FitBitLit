@@ -35,7 +35,7 @@ Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C
 
 
 2.  (Matplot Kagle)
-  Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map
+  Scatter diagram A. Excel data files scatter diagram  B. Histogram C. Correlation Charts D. Heat Map
 
 3.  (Tableau)
    Tableau to chart Excel data A. Calories Bar
