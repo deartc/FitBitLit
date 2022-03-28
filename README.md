@@ -5,8 +5,8 @@ Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actu
 
 The Kaggle file lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data.
 
-Tableau can be accessed by clicking on the Tableau link.  The four charts can then  be accessed by clicking on the tabs at the top .
-I used the following imported libraries: pandas, matplotlib,sns, datetime, datasets, data_table,  re 
+Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top.
+I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table,  
 
 
  Category 1: Python Programming Basics:
