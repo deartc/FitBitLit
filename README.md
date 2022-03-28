@@ -37,11 +37,11 @@ A. Iloc Location of exercise in file used and identified B. Calories of four exe
 Category 3: Data Display 
 
 1. (Matplot Colab)
-Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts 
+Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map 
 
 
-2.  (Matplot Kagle)
-  Scatter diagram A. Excel data files scatter diagram  B. Histogram C. Correlation Charts D. Heat Map
+2.  (Matplot Kaggle)
+  Scatter diagram A. Data files scatter diagram  B. Histogram C. Correlation Charts 
 
 3.  (Tableau)
    Tableau to chart Excel data A. Calories Bar
