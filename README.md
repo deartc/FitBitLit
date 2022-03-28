@@ -11,21 +11,26 @@ Tableau can be accessed by clicking on the Tableau link. I used the following: p
  Category 1: Python Programming Basics:
 
 
-Conversion tool displaying data based on an external factor: the current date, and then how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
+1.  Conversion tool displaying data based on an external factor: the current date, and then how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
 
-Dictionary or list, populated with several values, retrieved at least one value.
+2.  Dictionary or list, populated with several values, retrieved at least one value.
 
-Regex to ensure fields, a web address and an email address, are always stored and displayed in the same format.
+3.  Regex to ensure fields, a web address and an email address, are always stored and displayed in the same format.
 
 
 
 
 Category 2: Utilize External Data:
 
-Excel data files A. Data file cleaned B. Missing data addressed
-C. NAN values addressed D. Statistical analysis of data: Mean, Median, Mode D. Summary of relevant data files listed and analyzed E. Excel data plotted using matplotlib.
 
-Kaggle data  files A. Iloc Location of exercise in file used and identified B. Calories of four exercisers calculated with different exercise location and weight on Kaggle C. Summary and analysis of the data plotted using matploblib
+1.  Excel data files
+A. Data file cleaned B. Missing data addressed C. NAN values addressed D. Statistical analysis of data: Mean, Median, Mode D. Summary of relevant data files listed and analyzed E. Excel data plotted using matplotlib.
+
+
+2.  Kaggle data  files 
+A. Iloc Location of exercise in file used and identified B. Calories of four exercisers calculated with different exercise location and weight on Kaggle C. Summary and analysis of the data plotted using matploblib
+
+
 
 
 Category 3: Data Display 
