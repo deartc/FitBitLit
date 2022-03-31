@@ -1,7 +1,7 @@
 
 
 This project compares the exercise data of four people as they prepare for the Kentucky Marathon. To run my project do the following:
-Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitlitgit.ipynb and use the Colab link to open up in Colab. Once open, run to access updated data and answer yes when prompted by this warning: This notebook was not authored by Google.
+Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitlitgit.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the insructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
 
 The Kaggle file lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data.
 
@@ -37,11 +37,11 @@ A. Iloc Location of exercise in file used and identified B. Calories of four exe
 Category 3: Data Display 
 
 1. (Matplot Colab)
-Matplotlib-Scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map 
+Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. Correlation Charts D. Heat Map 
 
 
 2.  (Matplot Kaggle)
-  Scatter diagram A. Data files scatter diagram  B. Histogram C. Correlation Charts 
+ Matplot scatter diagram A. Data files scatter diagram  B. Histogram C. Correlation Charts 
 
 3.  (Tableau)
    Tableau to chart Excel data A. Calories Bar
