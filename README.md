@@ -1,7 +1,7 @@
 
 
 This project compares the exercise data of four people as they prepare for the Kentucky Marathon. To run my project do the following:
-Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitlitgitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the insructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
+Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the insructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
 
 The Kaggle file lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data.
 
