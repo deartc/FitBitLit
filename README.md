@@ -2,11 +2,11 @@
 
 This project compares the exercise data of four people as they prepare for the Kentucky Marathon. To run my project do the following:
 Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
-I used the following imported libraries: panda, matplotlib,sns, re datetime, datasets, and data_table in the project.  
+I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.  
 
 
 
-The Kaggle file lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data.
+The Kaggle file is separate from the Colab file. It was included to show the use of Kaggle.  It  lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data. The imported libraries include panda, and matplotlib.
 
 Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top.
 
