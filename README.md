@@ -47,8 +47,7 @@ Matplot scatter diagram A. Excel data files scatter diagram of B. Histogram C. C
  Matplot scatter diagram A. Data files scatter diagram  B. Histogram C. Correlation Charts 
 
 3.  (Tableau)
-   Tableau to chart Excel data A. Calories Bar
-    Chart for Each Exerciser B. Steps Line Chart for Each Exerciser  
+   Tableau to chart Excel data A. Calories Bar Chart for Each Exerciser B. Steps Line Chart for Each Exerciser  
      C. Calories Steps Chart D. Exerciser Comparison Chart
 
 
