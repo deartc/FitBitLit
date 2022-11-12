@@ -8,7 +8,7 @@ I used the following imported libraries: pandas, matplotlib,sns, re datetime, da
 
 The Kaggle file is separate from the Colab file. It was included to show the use of Kaggle.  It  lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data. The imported libraries include pandas, and matplotlib.
 
-Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top of the document.
+Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top of the documents.
 
 
 
