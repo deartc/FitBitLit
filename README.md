@@ -8,14 +8,14 @@ I used the following imported libraries: pandas, matplotlib,sns, re datetime, da
 
 The Kaggle file is separate from the Colab file. It was included to show the use of Kaggle.  It  lists the weights of the exercisers and the potential calories burned by certain activities. The Kaggle file kagglefitbit.ipynb can be accessed by clicking on the Kaggle link and once opened up, run it to update data. The imported libraries include pandas, and matplotlib.
 
-Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top of the documents.
+Tableau can be accessed by clicking on the Tableau link.  The four charts can then be accessed by clicking on the tabs at the top of the documents. 
 
 
 
  Category 1: Python Programming Basics:
 
 
-1.  Conversion tool displaying data based on an external factor: the current date, and then how many days remaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
+1.  Conversion tool displaying data based on an external factor: the current date, and then how many days  areremaining until some future date, the Kentucky Derby Festival MiniMarathon/Marathon.
 
 2.  Dictionary or list, populated with several values, retrieved at least one value.
 
