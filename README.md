@@ -1,3 +1,25 @@
+## Train a calorie prediction model
+
+The repository now includes a local, reproducible Python training pipeline. It predicts `Calories` from `Duration`, `Pulse`, `Steps`, the exerciser, and date-derived features.
+
+Install the dependencies and train the model from the repository root:
+
+```text
+python -m pip install -r requirements.txt
+python train_fitbit_model.py
+```
+
+An optional five-day supplement is included as explicitly labeled synthetic training data. Use it only when you want to increase the training sample:
+
+```text
+python train_fitbit_model.py --additional-data supplemental_fitbit_data.csv
+```
+
+The script drops rows with missing `Calories` labels, evaluates on a fixed 20% test split, and writes these files to `model_output/` (which is ignored by Git):
+
+- `fitbit_calorie_model.joblib`: trained scikit-learn pipeline
+- `training_metrics.json`: held-out MAE, RMSE, and R2 metrics
+- `fitbit_predictions.csv`: actual and predicted test-set calories
 
 
 This project compares the exercise data of four people as they prepare for the Kentucky Marathon. To run my project do the following:
