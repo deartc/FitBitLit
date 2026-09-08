@@ -79,4 +79,4 @@ Tableau link:
 https://public.tableau.com/views/TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021/DECEMBERCALORIES2021?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Tableau Comparison Chart:
-<div class='tableauPlaceholder' id='viz1650305916351' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TE&#47;TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021&#47;DECEMBER2021CALORIECOMPARISON&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TERESAHAWKINSEXERCISEDATAPROJECTDECEMBER2021&#47;DECEMBER2021CALORIECOMPARISON' /><param name='tabs' value='yes' /><param name='toolbar' value='yes' /><param name='static_image' 
+<
