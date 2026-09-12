@@ -22,8 +22,7 @@ The script drops rows with missing `Calories` labels, evaluates on a fixed 20% t
 - `fitbit_predictions.csv`: actual and predicted test-set calories
 
 
-This project compares the exercise data of four people as they prepare for the Kentucky Mini Marathon. To run my project do the following:
-Clone github.com/deartc/FitBitLit. To run the Colab portion which lists the actual exercise data of my project, go to fitbitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
+This project compares the exercise data of four people as they prepare for the Kentucky Mini Marathon. To run the Colab portion which lists the actual exercise data of my project, go to fitbitdata.ipynb and use the Colab link to open up in Colab. Once open use runtime tab then the option "run all" to update data.  Answer yes when prompted by this warning: "This notebook was not authored by Google."  If you wish to alter or use file follow the instructions listed. "Please make a copy of this notebook before using it. Go to Files > Save a Copy in Drive"
 I used the following imported libraries: pandas, matplotlib,sns, re datetime, datasets, and data_table in the project.     
 
 
